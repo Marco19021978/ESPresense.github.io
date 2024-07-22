@@ -16,7 +16,7 @@ has_children: true
 | iPhones              |                                             | [Pair to retrieve IRK](/beacons/apple)
 | Apple Watches        |                                             | [Use iCloud keychain to get IRK](/beacons/apple)
 | Wear OS Smartwatches |                                             | [Must use HA companion app](/beacons/android)
-| Tiles                | [amazon](https://amzn.to/3h77T5f)           | These work great, but update somewhat slow
+| Tiles                | [amazon](https://amzn.to/3h77T5f)           | These work great, but update somewhat slow - you need to close tile app on phone
 | Blue Charm Beacons   | [amazon](https://amzn.to/2YGdA3w)           | Configure as iBeacon or eddystone, don't enable both at the same time
 | Generic BTLE Beacons |                                             | Anything that follows the iBeacon or Eddystone standards
 | musegear finder 2    | [musegear](https://shop.musegear-finder.net/collections/finder-2) | Must be connected once with the associated app.
